@@ -1,8 +1,5 @@
-
-# CSS-Frameworks Course Assignment
-
 <img width="900" alt="Screenshot 2023-09-03 at 12 00 16" src="https://github.com/KarenJoo/css-frameworks-ca/assets/114563762/fbfbdd23-df42-46f6-ae8e-de0a8d1087ef">
-image of th Authentication page for the Boho Style app.
+
 # css-frameworks-ca
 
 ## Description
